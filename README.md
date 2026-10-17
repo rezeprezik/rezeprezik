@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./dark-red.svg" alt="profile" width="100%" />
+</div> 
 <svg width="900" height="280" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
