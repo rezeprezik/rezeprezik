@@ -4,7 +4,7 @@
 
 <br/>
 
-# `rezeprezik`
+# `ReBublic`
 
 **`developer · builder · learner`**
 
