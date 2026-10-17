@@ -1,40 +1,33 @@
-# 💻 Привет, я YourName
+<svg width="900" height="280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0000"/>
+      <stop offset="100%" stop-color="#3d0000"/>
+    </linearGradient>
+  </defs>
 
-> **Fullstack-разработчик** из [Твой Город]. Фокусируюсь на создании чистого, масштабируемого кода и эффективной архитектуры приложений.
+  <rect width="900" height="280" fill="url(#bg)" rx="16"/>
+  <rect x="1" y="1" width="898" height="278" fill="none" 
+        stroke="#8b0000" stroke-width="2" rx="16" opacity="0.6"/>
 
----
+  <text x="50%" y="120" text-anchor="middle" 
+        font-family="Inter, -apple-system, sans-serif" 
+        font-size="52" font-weight="700" fill="#ff4d4d">
+    Ваше Имя
+  </text>
 
-### 🛠️ Технический стек
+  <text x="50%" y="170" text-anchor="middle" 
+        font-family="Inter, -apple-system, sans-serif" 
+        font-size="20" fill="#b30000" letter-spacing="4">
+    DEVELOPER · BUILDER · LEARNER
+  </text>
 
-```json
-{
-  "frontend": ["TypeScript", "React", "Next.js", "Tailwind CSS"],
-  "backend": ["Node.js", "NestJS", "PostgreSQL", "Prisma"],
-  "devops": ["Docker", "GitHub Actions", "Linux"]
-}
-```
+  <line x1="350" y1="210" x2="550" y2="210" 
+        stroke="#8b0000" stroke-width="1.5" opacity="0.5"/>
 
----
-
-### 🚀 Сейчас я работаю над
-
-* **[Название проекта]** — Архитектура и разработка [краткое описание, например: высоконагруженного API].
-* **[Название проекта]** — Оптимизация производительности фронтенда и внедрение CI/CD автоматизации.
-
----
-
-### 📈 Статистика GitHub
-
-```text
-📊 Всего коммитов:  ■■■■■■■■■■■■■■■■■■■■■■ 90%+ (Production)
-⚡ Время активности: Ночные коммиты и глубокий рефакторинг
-🌱 Изучаю сейчас:    Go / Системное проектирование
-```
-
----
-
-### 🤝 Связь и контакты
-
-* **Telegram:** [@твой_ник](https://t.me)
-* **LinkedIn:** [/in/твой_профиль](https://linkedin.com)
-* **Email:** [твой_email@example.com](mailto:твой_email@example.com)
+  <text x="50%" y="245" text-anchor="middle" 
+        font-family="Inter, -apple-system, sans-serif" 
+        font-size="15" fill="#8a8a8a">
+    ↓ scroll down
+  </text>
+</svg>
