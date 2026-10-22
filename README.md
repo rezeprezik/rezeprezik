@@ -23,8 +23,8 @@
 
 ```ts
 const me = {
-  role:      "backend / fullstack",
-  stack:     ["TypeScript", "Go", "Python"],
+  role:      "beginer",
+  stack:     ["C","Python","SQl"],
   focus:     "clean code · minimal UI",
   currently: "building something quiet",
 };
