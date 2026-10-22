@@ -1,8 +1,8 @@
-![banner](assets/is.jpg]
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=2&width=100%25" width="100%"/>
-
+![banner](assets/is.jpg]
 <br/>
 
 # `ReBublic`
