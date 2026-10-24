@@ -8,7 +8,6 @@
 <br/>
 
 # `ReBublic`
-![banner](assets/is.jpg)
 **`developer · builder · learner`**
 
 <a href="https://t.me/username"><img src="https://img.shields.io/badge/telegram-000000?style=flat-square&logo=telegram&logoColor=DC143C"/></a>
